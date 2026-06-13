@@ -1,0 +1,7 @@
+Permitir que las comunidades construyan sus propias
+herramientas con tecnologías abiertas como Node.js
+garantiza su autonomía digital y la sostenibilidad
+de sus proyectos. Cuando una iniciativa ciudadana
+no depende de software propietario, evita bloqueos
+económicos y adapta la tecnología a sus necesidades
+reales.
